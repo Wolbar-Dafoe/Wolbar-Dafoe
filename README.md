@@ -4,7 +4,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wolbar-Dafoe&theme=synthwave&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ## About Me
-- 🌱 I’m currently learning: C++, Docker, CI
+- 🌱 I’m currently learning: C++, Docker, CI, 3D Printing & CAD
 - 🔭 I’m currently working on: Drone Coding (proto-Robo), Disertation Project
 
 ### :hammer_and_wrench: Languages and Tools :
